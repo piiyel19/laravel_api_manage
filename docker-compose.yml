@@ -1,0 +1,6 @@
+# app:
+#     build: .
+  
+#     # optional, map host port 8000 to container port 80
+#     ports:
+#       - 8082:80

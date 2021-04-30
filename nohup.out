@@ -1,0 +1,70 @@
+Laravel development server started: http://188.166.187.2:8082
+[Mon Apr 26 17:10:25 2021] PHP 7.4.3 Development Server (http://188.166.187.2:8082) started
+[Mon Apr 26 17:10:34 2021] 113.210.120.124:32526 Accepted
+[Mon Apr 26 17:10:34 2021] 113.210.120.124:41387 Accepted
+[Mon Apr 26 17:10:34 2021] 113.210.120.124:41387 Closing
+[Mon Apr 26 17:10:35 2021] 113.210.120.124:32526 [200]: GET /favicon.ico
+[Mon Apr 26 17:10:35 2021] 113.210.120.124:32526 Closing
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:57305 Accepted
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:45538 Accepted
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:57305 Closing
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:45538 Closing
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:11642 Accepted
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:59080 Accepted
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:59080 [200]: GET /css/app.css
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:11642 [200]: GET /js/app.js
+[Mon Apr 26 17:10:36 2021] 113.210.120.124:59080 Closing
+[Mon Apr 26 17:10:37 2021] 113.210.120.124:11642 Closing
+[Mon Apr 26 17:10:37 2021] 113.210.120.124:16090 Accepted
+[Mon Apr 26 17:10:37 2021] 113.210.120.124:16090 Closing
+[Mon Apr 26 17:10:37 2021] 113.210.120.124:59513 Accepted
+[Mon Apr 26 17:10:37 2021] 113.210.120.124:9046 Accepted
+[Mon Apr 26 17:10:37 2021] 113.210.120.124:59513 [200]: GET /css/app.css
+[Mon Apr 26 17:10:38 2021] 113.210.120.124:9046 [200]: GET /js/app.js
+[Mon Apr 26 17:10:38 2021] 113.210.120.124:59513 Closing
+[Mon Apr 26 17:10:42 2021] 113.210.120.124:9046 Closing
+[Mon Apr 26 17:10:43 2021] 113.210.120.124:31152 Accepted
+[Mon Apr 26 17:10:43 2021] 113.210.120.124:31152 [200]: GET /favicon.ico
+[Mon Apr 26 17:10:43 2021] 113.210.120.124:31152 Closing
+Laravel development server started: http://188.166.187.2:8082
+[Mon Apr 26 21:31:19 2021] PHP 7.4.3 Development Server (http://188.166.187.2:8082) started
+Laravel development server started: http://188.166.187.2:8082
+[Mon Apr 26 22:19:45 2021] PHP 7.4.3 Development Server (http://188.166.187.2:8082) started
+Laravel development server started: http://188.166.187.2:8082
+[Mon Apr 26 22:23:04 2021] PHP 7.4.3 Development Server (http://188.166.187.2:8082) started
+[Mon Apr 26 22:23:32 2021] 113.210.109.147:52831 Accepted
+[Mon Apr 26 22:23:32 2021] 113.210.109.147:56891 Accepted
+[Mon Apr 26 22:23:33 2021] 113.210.109.147:52831 Closing
+[Mon Apr 26 22:23:33 2021] 113.210.109.147:56891 [200]: GET /favicon.ico
+[Mon Apr 26 22:23:33 2021] 113.210.109.147:56891 Closing
+Laravel development server started: http://188.166.187.2:8082
+[Mon Apr 26 22:23:36 2021] Failed to listen on 188.166.187.2:8082 (reason: Address already in use)
+[Mon Apr 26 22:23:39 2021] 113.210.109.147:26295 Accepted
+[Mon Apr 26 22:23:39 2021] 113.210.109.147:1195 Accepted
+[Mon Apr 26 22:23:39 2021] 113.210.109.147:1195 Closing
+[Mon Apr 26 22:23:40 2021] 113.210.109.147:26295 [200]: GET /favicon.ico
+[Mon Apr 26 22:23:40 2021] 113.210.109.147:26295 Closing
+
+                                                               
+  No arguments expected for "serve" command, got "/dev/null".  
+                                                               
+
+
+                                                               
+  No arguments expected for "serve" command, got "/dev/null".  
+                                                               
+
+
+                                       
+  The "--host" option does not exist.  
+                                       
+
+
+                                       
+  The "--host" option does not exist.  
+                                       
+
+Laravel development server started: http://127.0.0.1:8000
+[Sat May  1 02:03:58 2021] PHP 7.4.3 Development Server (http://127.0.0.1:8000) started
+Laravel development server started: http://127.0.0.1:8001
+[Sat May  1 02:09:38 2021] PHP 7.4.3 Development Server (http://127.0.0.1:8001) started
